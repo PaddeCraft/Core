@@ -3,7 +3,7 @@
 ### Welcome
 
 Welcome to the Core-Repository!
-This will be needet for my Datapacks sometimes.
+This will be needet for my datapacks sometimes.
 Codet in 1.16.5.
 
 ### Permissions (tags)
